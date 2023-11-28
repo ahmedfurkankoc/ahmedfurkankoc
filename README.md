@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmedfurkankoc.
+- 👋 Hi, I’m @ahmedfurkankoc
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkankoc&theme=tokyonight)
 
