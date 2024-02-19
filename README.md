@@ -17,7 +17,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://unity.com/)
 
 
-#### Studying in this moment:
+#### Learning in this moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
