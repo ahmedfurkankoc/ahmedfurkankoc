@@ -1,4 +1,4 @@
-<h3 align="center"> 👋 Hi, I’m @ahmedfurkankoc. I'm a .NET full stack developer</h3>
+<h3> 👋 Hi, I’m @ahmedfurkankoc. I'm a .NET full stack developer</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkankoc&layout=compact&theme=radical" />
 
