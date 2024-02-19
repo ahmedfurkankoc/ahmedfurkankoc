@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
-  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs,net,html,css,js,bootstrap,mysql,unity&perline=5"/>]
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=net"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>
   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>
