@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ahmedfurkankoc. I'm a .NET full stack developer
+ 👋 Hi, I’m @ahmedfurkankoc. I'm a .NET full stack developer
+ <h3 align="center">"Talk is cheap. Show me the code"</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineatae&layout=compact&theme=radical)
 
