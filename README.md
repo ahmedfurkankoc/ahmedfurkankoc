@@ -1,6 +1,6 @@
 <h3 align="center"> 👋 Hi, I’m @ahmedfurkankoc. I'm a .NET full stack developer</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineatae&layout=compact&theme=radical)
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfurkankoc&layout=compact&theme=radical" />
 
 ## Language and Tools
 
