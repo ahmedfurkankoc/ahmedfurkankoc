@@ -28,7 +28,7 @@ Passionate about Science and Technology.
 
 
 #### Learning in this moment:
-  
+ [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=blender"/>](https://www.blender.org/)
 
 #### Tools:
 
